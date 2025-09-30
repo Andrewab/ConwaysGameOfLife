@@ -1,7 +1,3 @@
-Welcome to Conways Game of Life.
-Inspired by Conways Game of Life
-Created by: Andrew Blanchette
-
 How to play:
 Upon starting the program the user will be prompted with a series of prompts.
 
